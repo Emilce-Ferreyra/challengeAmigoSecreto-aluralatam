@@ -22,6 +22,7 @@ Validar entrada: Si el campo de texto está vacío, el programa mostrará una al
 ![sortear sin lista de amigos](https://github.com/user-attachments/assets/fea1657e-0f29-4816-9802-254f1d70c069)
 
 Sorteo aleatorio: Al hacer clic en el botón "Sortear Amigo", se seleccionará aleatoriamente un nombre de la lista y se mostrará en la página.
+El boton "Sortear Amigo" se deshabilita y para volver a jugar se debe reiniciar el juego (F5).
 
 ![Codigo 4](https://github.com/user-attachments/assets/8c77cbd3-e1b2-4a57-ab5c-5e563a29fea4)
 ![sortear amigo](https://github.com/user-attachments/assets/43384a65-4968-4198-978e-dd77f53a8f1d)
